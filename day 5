@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1 style="color:blue">WELCOME TO MY PROFILE</h1>
+<title>INTRODUCTION</title>
+<img src="vaibh.jpg" alt="vaibhav" width="150" height="160">
+</head>
+<body>
+
+<h1 style="color:red">VAIBHAV KASHYAP</h1>
+<button>Click me</button>
+<h2>KIET Group Of Institutions</h2>
+<pre>KIET is a institute where i get all my dreams come true.From where i can easily get my success to survive the life.</pre>
+
+<hr>
+<h3>ABOUT ME-</h3>
+<ul>
+<li>Student of MCA</li>
+<li>Batch-2017-2020</li>
+<li>Muradnagar,Ghaziabad(U.P.)</li>
+<ul>
+
+</body>
+</html>
