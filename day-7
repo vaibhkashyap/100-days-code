@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1 style="color:blue; text-align:center;">WELCOME TO MY PROFILE</h1>
+<title>INTRODUCTION</title>
+<img src="vaibh.jpg" alt="vaibhav" width="150" height="160">
+</head>
+
+<body style="background-color:grey;">
+<h1 style="color:white; font-size:300%; font-family:verdana;"><i>VAIBHAV KASHYAP</i></h1>
+<h2 style="color:brown; font-size:250%; font-family:courier;"><em><mark>KIET Group Of Institutions</mark></em></h2>
+<p style="text-align:center;"> KIET Mool-Mantra:<q>Technology is our religion and quality is our motto</q></p>
+<pre>KIET is a institute where i get all my dreams come true.From where i can easily get my success to survive the life.</pre>
+<address>
+Ghaziabad-Meerut Road (NH-58)<br>
+Muradnagar-201206<br>
+Distt. Ghaziabad<br>
+UTTAR PRADESH<br>
+</address>
+
+<hr>
+<h3>ABOUT ME-</h3>
+<ul>
+<li>Student of MCA</li>
+<li>Batch-2017-2020</li>
+<li>Muradnagar,Ghaziabad(U.P.)</li>
+</ul>
+
+<hr>
+<a href="https://www.indiamart.com/kashyapprint-pack/profile.html">this is a link</a>
+
+</body>
+</html>
