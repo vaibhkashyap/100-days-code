@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="krish.css">
+<style>
+body{background-color: grey}
+h1{background-color:white; text-align:center}
+h2{color:white; text-align:center; font-size:300%; font-family:verdana}
+h3{color:brown; text-align:center; font-size:250%; font-family:courier}
+p{color:white; text-align:center}
+pre{font-size:170%}
+h4{background-color:Blue; text-align:center; font-size:150%}
+div{text-align:right; width=150 height=150}
+</style>
+</head>
+
+<h1>WELCOME TO MY PROFILE</h1>
+<title>PROFILE</title>
+<div><img src="vaibh.jpg" alt="image"></div>
+
+
+<h2><i>VAIBHAV KASHYAP</i></h2>
+<h3><em><mark>KIET Group Of Institutions</mark></em></h3>
+<p> KIET Mool-Mantra:<q>Technology is our religion and quality is our motto</q></p>
+<pre><b>KIET is a institute where i get all my dreams come true.From where i can easily get my success to survive the life.</b></pre>
+<address>
+Ghaziabad-Meerut Road (NH-58)<br>
+Muradnagar-201206<br>
+Distt. Ghaziabad<br>
+UTTAR PRADESH<br>
+</address>
+
+<hr>
+<h4>ABOUT ME-</h4>
+<ul>
+<li>Student of MCA</li>
+<li>Batch-2017-2020</li>
+<li>Section-A</li>
+</ul>
+
+<hr>
+<h4>RESIDENCE-</h4>
+<address> 
+127/147 'U' BLOCK NIRALA NAGAR<br>
+KANPUR (UTTAR PRADESH)<br>
+PIN-208014<br>
+</address>
+
+<hr>
+<h4>CONTACT DETAILS-</h4>
+<p>MOB.NO.- 7007541764,7783952310</p>
+<p>MAIL ID- <i>vaibhkashyap15@gmail.com</i></p>
+
+
+<hr>
+<h4>CONNNECT ONLINE WITH ME AT-</h4>
+<p>MY LINKEDIN ID-<a href="https://www.linkedin.com/in/vaibhav-kashyap-ab1b46169/">LINKEDIN</a></p>
+<p>MY GITHUB ID-<a href="https://github.com/vaibhkashyap">GITHUB</a></p>
+<a href="jaao.html">jaao</a>
+</body>
+</html>
