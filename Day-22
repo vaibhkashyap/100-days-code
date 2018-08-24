@@ -1,0 +1,36 @@
+h1{
+  background-color:green; text-align:center;
+}
+body{
+	background-color: grey;
+	}
+h2{
+ color:white; 
+ text-align:center; 
+ font-size:300%;
+ font-family:verdana
+ }
+h3{
+	color:brown;
+	text-align:center;
+	font-size:250%;
+	font-family:courier
+	}
+p{ 
+        border: 2px solid black;
+		padding: 30px;
+		color:white; 
+		text-align:center
+		}
+pre{
+	font-size:170%
+	}
+h4{
+	background-color:purple; 
+	text-align:center;
+	font-size:150%
+	}
+div{
+	text-align:right; 
+	width=150 height=150
+	}
