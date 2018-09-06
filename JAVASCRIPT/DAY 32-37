@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>What JavaScript can do?</h2>
+<p>JavaScript cann change the HTML content.</p>
+<button onclick="document.getElementById('my image').src='pic_bulbon.jpg'">Turn on light</button>
+<img id="my image" src='pic_bulboff.jpg' style="width:200px">
+<button onclick="document.getElementById('my image').src='pic_bulboff.jpg'">Turn off  light</button>
+</body>
+</html>
